@@ -1,2 +1,2 @@
-# Karyashaala
-Karyashaala is lack of academic activity in single platform. it is Smart India Hackathon problem solution.
+# KARYASHAALA
+Karyashaala is lack of academic activity in single platform. it is Smart India Hackthon problem solution. 
